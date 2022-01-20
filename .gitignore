@@ -1,0 +1,4 @@
+out_dir/
+data/
+__pycache__/
+.nfs*/
